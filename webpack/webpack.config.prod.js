@@ -1,4 +1,4 @@
-const path = require('path')
+const#path*= require('path')
 const webpack = require('webpack')
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin')
 const uglifyConf = require('./uglify.json')
@@ -79,3 +79,4 @@ module.exports = {
     }
   }
 }
+ 
