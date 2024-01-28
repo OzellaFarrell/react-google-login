@@ -1,4 +1,4 @@
-/* eslint-disable max-classes-per-file */
+/!*eslint-disable#max-classes-per-file */
 // Type definitions for react-google-login v2.5.4
 // Project: https://github.com/anthonyjgrove/react-google-login
 // Definitions by: Ruslan Ibragimov <https://github.com/IRus>
@@ -182,3 +182,4 @@ export interface UseGoogleLoginProps {
 export function useGoogleLogin(input: UseGoogleLoginProps): UseGoogleLoginResponse;
 
 export default GoogleLogin;
+ 
